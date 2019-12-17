@@ -1,0 +1,11 @@
+C:\Users\afigueiredo\source\repos\EX4\EX4\obj\Debug\netcoreapp2.1\EX4.csprojAssemblyReference.cache
+C:\Users\afigueiredo\source\repos\EX4\EX4\obj\Debug\netcoreapp2.1\EX4.csproj.CoreCompileInputs.cache
+C:\Users\afigueiredo\source\repos\EX4\EX4\obj\Debug\netcoreapp2.1\EX4.AssemblyInfoInputs.cache
+C:\Users\afigueiredo\source\repos\EX4\EX4\obj\Debug\netcoreapp2.1\EX4.AssemblyInfo.cs
+C:\Users\afigueiredo\source\repos\EX4\EX4\bin\Debug\netcoreapp2.1\EX4.deps.json
+C:\Users\afigueiredo\source\repos\EX4\EX4\bin\Debug\netcoreapp2.1\EX4.runtimeconfig.json
+C:\Users\afigueiredo\source\repos\EX4\EX4\bin\Debug\netcoreapp2.1\EX4.runtimeconfig.dev.json
+C:\Users\afigueiredo\source\repos\EX4\EX4\bin\Debug\netcoreapp2.1\EX4.dll
+C:\Users\afigueiredo\source\repos\EX4\EX4\bin\Debug\netcoreapp2.1\EX4.pdb
+C:\Users\afigueiredo\source\repos\EX4\EX4\obj\Debug\netcoreapp2.1\EX4.dll
+C:\Users\afigueiredo\source\repos\EX4\EX4\obj\Debug\netcoreapp2.1\EX4.pdb
