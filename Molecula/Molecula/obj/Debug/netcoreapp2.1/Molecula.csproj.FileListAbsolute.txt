@@ -1,0 +1,11 @@
+C:\Users\afigueiredo\source\repos\Molecula\Molecula\bin\Debug\netcoreapp2.1\Molecula.deps.json
+C:\Users\afigueiredo\source\repos\Molecula\Molecula\bin\Debug\netcoreapp2.1\Molecula.runtimeconfig.json
+C:\Users\afigueiredo\source\repos\Molecula\Molecula\bin\Debug\netcoreapp2.1\Molecula.runtimeconfig.dev.json
+C:\Users\afigueiredo\source\repos\Molecula\Molecula\bin\Debug\netcoreapp2.1\Molecula.dll
+C:\Users\afigueiredo\source\repos\Molecula\Molecula\bin\Debug\netcoreapp2.1\Molecula.pdb
+C:\Users\afigueiredo\source\repos\Molecula\Molecula\obj\Debug\netcoreapp2.1\Molecula.csprojAssemblyReference.cache
+C:\Users\afigueiredo\source\repos\Molecula\Molecula\obj\Debug\netcoreapp2.1\Molecula.csproj.CoreCompileInputs.cache
+C:\Users\afigueiredo\source\repos\Molecula\Molecula\obj\Debug\netcoreapp2.1\Molecula.AssemblyInfoInputs.cache
+C:\Users\afigueiredo\source\repos\Molecula\Molecula\obj\Debug\netcoreapp2.1\Molecula.AssemblyInfo.cs
+C:\Users\afigueiredo\source\repos\Molecula\Molecula\obj\Debug\netcoreapp2.1\Molecula.dll
+C:\Users\afigueiredo\source\repos\Molecula\Molecula\obj\Debug\netcoreapp2.1\Molecula.pdb
