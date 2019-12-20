@@ -1,0 +1,10 @@
+/home/arla/Projects C#/C-/RegistroContabil/RegistroContabil/bin/Debug/netcoreapp2.1/RegistroContabil.deps.json
+/home/arla/Projects C#/C-/RegistroContabil/RegistroContabil/bin/Debug/netcoreapp2.1/RegistroContabil.runtimeconfig.json
+/home/arla/Projects C#/C-/RegistroContabil/RegistroContabil/bin/Debug/netcoreapp2.1/RegistroContabil.runtimeconfig.dev.json
+/home/arla/Projects C#/C-/RegistroContabil/RegistroContabil/bin/Debug/netcoreapp2.1/RegistroContabil.dll
+/home/arla/Projects C#/C-/RegistroContabil/RegistroContabil/bin/Debug/netcoreapp2.1/RegistroContabil.pdb
+/home/arla/Projects C#/C-/RegistroContabil/RegistroContabil/obj/Debug/netcoreapp2.1/RegistroContabil.csprojAssemblyReference.cache
+/home/arla/Projects C#/C-/RegistroContabil/RegistroContabil/obj/Debug/netcoreapp2.1/RegistroContabil.AssemblyInfoInputs.cache
+/home/arla/Projects C#/C-/RegistroContabil/RegistroContabil/obj/Debug/netcoreapp2.1/RegistroContabil.AssemblyInfo.cs
+/home/arla/Projects C#/C-/RegistroContabil/RegistroContabil/obj/Debug/netcoreapp2.1/RegistroContabil.dll
+/home/arla/Projects C#/C-/RegistroContabil/RegistroContabil/obj/Debug/netcoreapp2.1/RegistroContabil.pdb

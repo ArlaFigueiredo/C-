@@ -1,19 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace RegistroContabil
+﻿namespace RegistroContabil
 {
     class RegistroContabil
     {
-        private string NomeEmpresa { get; set; }
-        private string CGC { get; set; }
+        public string NomeEmpresa { get; set; }
+        public string CGC { get; set; }
         public BalancoContabil Balanco { get; set; }
         public LivroLancamentoContabeis Livro { get; set; }
-
-        public RegistroContabil()
-        {
-        }
 
         public RegistroContabil(string nomeEmpresa, string cGC, BalancoContabil balanco, LivroLancamentoContabeis livro)
         {

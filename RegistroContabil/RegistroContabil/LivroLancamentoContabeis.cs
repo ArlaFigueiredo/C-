@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Text;
 
 namespace RegistroContabil
@@ -15,6 +14,16 @@ namespace RegistroContabil
         public void AddLancamento( Lancamentos lancamento)
         {
             Lancamentos.Add(lancamento);
+        }
+
+        public override string ToString()
+        {
+            StringBuilder lv = new StringBuilder();
+            foreach (Lancamentos lancamento in Lancamentos)
+            {
+                lv.AppendLine(lancamento.ToString());
+            }
+            return lv.ToString();
         }
     }
 }

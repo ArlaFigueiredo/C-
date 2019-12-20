@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B27D5A69-DE34-4EC1-B542-0D2083DBE335}|Default">
+  <MonoDevelop.Ide.ItemProperties.RegistroContabil PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RegistroContabil/Program.cs">
+    <Files>
+      <File FileName="RegistroContabil/Program.cs" Line="2" Column="1" />
+      <File FileName="RegistroContabil/RegistroContabil.cs" Line="6" Column="22" />
+      <File FileName="RegistroContabil/LivroLancamentoContabeis.cs" Line="13" Column="9" />
+      <File FileName="RegistroContabil/BalancoContabil.cs" Line="10" Column="29" />
+      <File FileName="RegistroContabil/Conta.cs" Line="15" Column="19" />
+      <File FileName="RegistroContabil/Lancamentos.cs" Line="15" Column="27" />
+      <File FileName="RegistroContabil/TipoConta.cs" Line="7" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RegistroContabil" expanded="True">
+            <Node name="RegistroContabil" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
