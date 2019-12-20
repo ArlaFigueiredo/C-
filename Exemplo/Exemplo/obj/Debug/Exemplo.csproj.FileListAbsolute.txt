@@ -1,0 +1,14 @@
+/home/arla/Projects/Exemplo/Exemplo/bin/Exemplo.dll
+/home/arla/Projects/Exemplo/Exemplo/bin/Exemplo.pdb
+/home/arla/Projects/Exemplo/Exemplo/bin/Newtonsoft.Json.dll
+/home/arla/Projects/Exemplo/Exemplo/bin/System.Net.Http.Formatting.dll
+/home/arla/Projects/Exemplo/Exemplo/bin/System.Web.Http.dll
+/home/arla/Projects/Exemplo/Exemplo/bin/System.Web.Http.WebHost.dll
+/home/arla/Projects/Exemplo/Exemplo/bin/Newtonsoft.Json.xml
+/home/arla/Projects/Exemplo/Exemplo/bin/System.Net.Http.Formatting.xml
+/home/arla/Projects/Exemplo/Exemplo/bin/System.Web.Http.xml
+/home/arla/Projects/Exemplo/Exemplo/bin/System.Web.Http.WebHost.xml
+/home/arla/Projects/Exemplo/Exemplo/obj/Debug/Exemplo.csprojAssemblyReference.cache
+/home/arla/Projects/Exemplo/Exemplo/obj/Debug/Exemplo.csproj.CopyComplete
+/home/arla/Projects/Exemplo/Exemplo/obj/Debug/Exemplo.dll
+/home/arla/Projects/Exemplo/Exemplo/obj/Debug/Exemplo.pdb

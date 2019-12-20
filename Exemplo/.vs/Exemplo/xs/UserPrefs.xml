@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F1AF017A-1B84-40DC-B4D9-6F3D7D9F9E2A}|">
+  <MonoDevelop.Ide.ItemProperties.Exemplo PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exemplo/Models/Cliente.cs">
+    <Files>
+      <File FileName="Exemplo/Models/Cliente.cs" Line="11" Column="10" />
+      <File FileName="Exemplo/Controllers/ClientesController.cs" Line="20" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exemplo" expanded="True">
+            <Node name="Exemplo" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Cliente.cs" selected="True" />
+              </Node>
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
